@@ -27,6 +27,4 @@ features:
     icon: blog
     details: Appeal your ban from the server
     link: https://appeals.samsungdiscord.co
-
-footer: customize your footer text
 ---
