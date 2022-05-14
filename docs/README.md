@@ -15,7 +15,7 @@ features:
 
   - title: Guides
     icon: copy
-    details: Technical guides for   Android devices
+    details: Technical guides for Android devices
     link: /guide/
 
   # - title: Suggestions
