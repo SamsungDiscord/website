@@ -9,6 +9,13 @@ export default hopeTheme({
     name: "Ushie",
     // url: "https://mrhope.site",
   },
+  
+  themeColor: {
+    red: "#f26d6d",
+    green: "#3eaf7c",
+    orange: "#fb9b5f",
+    purple: "#8e44ad",
+  },
 
   iconPrefix: "iconfont icon-",
 
@@ -22,7 +29,7 @@ export default hopeTheme({
 
   sidebar: sidebar,
 
-  footer: "Not affiliated with Samsung or Discord Corp<br>Released under MIT License<br> Made by UshieKane with ❤️",
+  footer: "Not affiliated with Samsung<br> <span class=\"icon iconfont icon-code\"></span> by UshieKane with ❤️",
 
   copyright: false,
 

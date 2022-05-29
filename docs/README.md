@@ -3,18 +3,20 @@ home: true
 icon: home
 title: Samsung
 heroText: Samsung Community
+heroImage: "logo.png"
 tagline: A website for the Samsung discord Community.
 actions:
-  # - text: Guides
-  #   link: /guides/
-  #   icon: book
+  - text: Guides
+    link: /guide/
+    icon: book
+    type: primary
 
   - text: Server Invite
     link: https://discord.gg/fnTb75qwA7
 features:
 
   - title: Guides
-    icon: copy
+    icon: code
     details: Technical guides for Android devices
     link: /guide/
 
