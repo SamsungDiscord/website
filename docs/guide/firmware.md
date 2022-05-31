@@ -1,8 +1,8 @@
 ---
 index: 2
-icon: config
+icon: mobile
 title: Flashing Firmware
-author: Sadboi and Ushie
+author: Sadboi & Ushie
 category:
   - Guide
 ---

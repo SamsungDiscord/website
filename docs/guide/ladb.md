@@ -1,6 +1,6 @@
 ---
 index: 1
-icon: lock
+icon: shell
 title: Local ADB
 author: Ushie
 category:

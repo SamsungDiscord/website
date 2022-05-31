@@ -1,12 +1,19 @@
 ---
+home: true
 index: false
+heroText: Guides
+tagline: A list of guides written by the community
 icon: creative
 category:
   - Guide
+features:
+  - title: Firmware
+    icon: mobile
+    details: Flashing firmware for Samsung Devices
+    link: firmware.md
+
+  - title: LADB
+    icon: shell
+    details: Using ADB on device
+    link: ladb.md
 ---
-
-# Guides
-
-- [Flashing Firmware](firmware.md)
-
-- [Using ADB on device](ladb.md)

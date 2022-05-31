@@ -3,11 +3,11 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://samsungdiscord.co",
 
   author: {
     name: "Ushie",
-    // url: "https://mrhope.site",
+    url: "https://ushiekane.dev",
   },
   
   themeColor: {
@@ -29,19 +29,29 @@ export default hopeTheme({
 
   sidebar: sidebar,
 
-  footer: "Not affiliated with Samsung<br> <span class=\"icon iconfont icon-code\"></span> by UshieKane with ❤️",
+  footer: "Not affiliated with Samsung<br> <span class=\"icon iconfont icon-code\"></span> with ❤️ by UshieKane",
 
   copyright: false,
 
   displayFooter: true,
 
-  pageInfo: ["Author", "Category", "ReadingTime"],
+  pageInfo: [
+    "Author",
+    "Category",
+    "ReadingTime"
+  ],
 
   plugins: {
     mdEnhance: {
       enableAll: true,
       presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
+        plugins: [
+          "highlight",
+          "math",
+          "search",
+          "notes",
+          "zoom"
+        ],
       },
     },
   },
