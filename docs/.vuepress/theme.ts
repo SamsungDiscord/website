@@ -9,6 +9,8 @@ export default hopeTheme({
     name: "Ushie",
     url: "https://ushiekane.dev",
   },
+
+  // logo: "/logo.png",
   
   themeColor: {
     red: "#f26d6d",
@@ -37,7 +39,7 @@ export default hopeTheme({
 
   pageInfo: [
     "Author",
-    "Category",
+    // "Category",
     "ReadingTime"
   ],
 
