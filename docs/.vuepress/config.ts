@@ -38,6 +38,13 @@ export default defineUserConfig({
           content: "https://samsungdiscord.co/logo.png",
       }
     ],
+    [
+      "meta",
+       {
+          name: "description",
+          content: "A website for the Samsung discord Community, containing useful guides and server-related information",
+      }
+    ],
   ],
 
   theme,

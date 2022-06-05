@@ -21,7 +21,7 @@ export default hopeTheme({
 
   iconPrefix: "iconfont icon-",
 
-  // logo: "/logo.svg",
+  // logo: "/logo.png",
 
   repo: "samsungdiscord/website",
 
@@ -39,7 +39,6 @@ export default hopeTheme({
 
   pageInfo: [
     "Author",
-    // "Category",
     "ReadingTime"
   ],
 
