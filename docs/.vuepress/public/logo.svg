@@ -7,35 +7,11 @@
    width="682.66669"
    height="682.66669"
    viewBox="0 0 682.66669 682.66669"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs13" />
-  <sodipodi:namedview
-     id="namedview11"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="0.82864073"
-     inkscape:cx="293.25133"
-     inkscape:cy="335.48918"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g15" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g15">
     <path
        style="fill:#000000;stroke-width:1.33333"
@@ -54,7 +30,4 @@
        d="m 323.01563,359.47898 c -22.32406,-3.71194 -49.89232,-18.78848 -65.52062,-35.83192 -8.28673,-9.0371 -18.42726,-24.68375 -22.67781,-34.99142 -6.76665,-16.4093 -7.92599,-23.14485 -7.93309,-46.08972 -0.006,-18.4317 0.3446,-22.33125 2.75308,-30.64662 3.37765,-11.6615 9.36067,-24.8166 15.53126,-34.14917 6.20968,-9.39171 21.06436,-24.82825 29.98095,-31.15531 46.92532,-33.29741 110.59494,-28.214 150.88806,12.04697 18.66635,18.65146 32.27104,46.02755 35.04109,70.51161 l 0.83252,7.35854 H 434.02189 406.1327 l -0.70492,-3.31869 c -5.92118,-27.87568 -22.21844,-46.37448 -46.56413,-52.85432 -8.51633,-2.2667 -25.29803,-2.22023 -34.18548,0.0947 -10.97464,2.85853 -20.47369,8.56578 -28.45204,17.09466 -12.05433,12.88612 -16.85295,25.17895 -16.85295,43.17296 0,19.36923 5.10913,32.06606 18.25364,45.36254 8.14613,8.24034 23.00956,16.16237 32.61419,17.38299 11.77064,1.49589 10.67875,-1.53989 10.67875,29.69017 v 27.67498 l -5.73228,-0.14108 c -3.15275,-0.0776 -8.63008,-0.62291 -12.17185,-1.21183 z"
        id="path16794" />
   </g>
-</svg>
-
-</svg>
 </svg>

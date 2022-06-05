@@ -29,4 +29,7 @@ features:
     icon: blog
     details: Appeal your ban from the server
     link: https://appeals.samsungdiscord.co
+meta: 
+  - name: description
+    content: "A website for the Samsung discord Community, containing useful guides and server-related information"
 ---
