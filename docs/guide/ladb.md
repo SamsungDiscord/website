@@ -2,6 +2,7 @@
 index: 1
 icon: shell
 title: Local ADB
+description: Guide on using ADB commands on device
 author: Ushie
 category:
   - Guide
