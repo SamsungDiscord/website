@@ -2,6 +2,7 @@
 index: 2
 icon: mobile
 title: Flashing Firmware
+description: Detailed guide on how to download and flash firmware on samsung devices
 author: Sadboi & Ushie
 category:
   - Guide
