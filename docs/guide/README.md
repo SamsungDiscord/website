@@ -1,6 +1,8 @@
 ---
 home: true
 index: false
+title: Guides
+description: List of guides available written by this server
 heroText: Guides
 tagline: A list of guides written by the community
 icon: creative
