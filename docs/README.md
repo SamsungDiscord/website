@@ -2,6 +2,7 @@
 home: true
 icon: home
 title: Samsung
+description: A website for the Samsung discord Community, containing useful guides and server-related information
 heroText: Samsung Community
 heroImage: "logo.png"
 tagline: A website for the Samsung discord Community.
@@ -29,7 +30,4 @@ features:
     icon: blog
     details: Appeal your ban from the server
     link: https://appeals.samsungdiscord.co
-meta: 
-  - name: description
-    content: "A website for the Samsung discord Community, containing useful guides and server-related information"
 ---
