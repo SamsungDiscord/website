@@ -10,4 +10,9 @@ export default navbar([
     icon: "creative",
     link: "/guide/",
   },
+  {
+    text: "About",
+    icon: "info",
+    link: "/about/",
+  },
 ]);
