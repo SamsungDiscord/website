@@ -13,6 +13,6 @@ export default navbar([
   {
     text: "About",
     icon: "info",
-    link: "/about/",
+    link: "/about/", 
   },
 ]);
