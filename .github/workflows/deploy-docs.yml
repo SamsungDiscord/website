@@ -47,3 +47,10 @@ jobs:
           branch: gh-pages
           folder: docs/.vuepress/dist
 
+      - name: fancier-discord-webhooks
+        uses: baked-libs/maven-discord-integration@1.5.1
+        with:
+          id: ${{ secrets.WEBHOOK_ID }}
+          token: ${{ secrets.WEBHOOK_TOKEN }}
+
+
