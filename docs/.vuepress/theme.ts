@@ -4,13 +4,6 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
   hostname: "https://samsungdiscord.co",
-
-  author: {
-    name: "Ushie",
-    url: "https://ushiekane.dev",
-  },
-
-  // logo: "/logo.png",
   
   themeColor: {
     red: "#f26d6d",
@@ -21,11 +14,9 @@ export default hopeTheme({
 
   iconPrefix: "iconfont icon-",
 
-  // logo: "/logo.png",
-
   repo: "samsungdiscord/website",
 
-  docsDir: "samsungdiscord/website/docs",
+  docsDir: "/docs",
 
   navbar: navbar,
 
@@ -34,6 +25,8 @@ export default hopeTheme({
   footer: "Not affiliated with Samsung<br> <span class=\"icon iconfont icon-code\"></span> with ❤️ by UshieKane",
 
   copyright: false,
+
+  contributors: false,
 
   displayFooter: true,
 

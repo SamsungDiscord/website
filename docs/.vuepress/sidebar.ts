@@ -11,10 +11,15 @@ export default sidebar([
     text: "Guide",
     icon: "creative",
     prefix: "/guide/",
-    link: "/guide/",
     children: [
       "firmware.md",
       "ladb.md",
     ],
+  },
+  {
+    text: "Server Info",
+    icon: "info",
+    prefix: "/about/",
+    link: "/about/",
   },
 ]);

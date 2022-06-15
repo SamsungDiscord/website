@@ -2,10 +2,10 @@
 home: true
 icon: home
 title: Samsung
-description: A website for the Samsung discord Community, containing useful guides and server-related information
+description: A website for the Samsung Discord Community, containing useful guides and server-related information
 heroText: Samsung Community
 heroImage: "logo.png"
-tagline: A website for the Samsung discord Community.
+tagline: Community for Samsung Enthusiasts on Discord.
 actions:
   - text: Guides
     link: /guide/
@@ -18,7 +18,7 @@ features:
 
   - title: Guides
     icon: code
-    details: Technical guides for Android devices
+    details: Technical guides for Samsung devices
     link: /guide/
 
   # - title: Suggestions
@@ -30,4 +30,9 @@ features:
     icon: blog
     details: Appeal your ban from the server
     link: https://appeals.samsungdiscord.co
+
+  - title: Server Information
+    icon: info
+    details: Information about the Discord Server
+    link: /about/
 ---

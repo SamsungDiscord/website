@@ -11,7 +11,7 @@ export default navbar([
     link: "/guide/",
   },
   {
-    text: "About",
+    text: "Server Info",
     icon: "info",
     link: "/about/",
   },
