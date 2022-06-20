@@ -5,7 +5,7 @@ import sidebar from "./sidebar";
 export default hopeTheme({
   hostname: "https://samsungdiscord.co",
   
-  themeColor: false,
+  themeColor: false, 
 
   iconPrefix: "iconfont icon-",
 
