@@ -13,8 +13,6 @@ export default hopeTheme({
 
   docsDir: "/docs",
 
-  darkmode: "toggle",
-
   navbar: navbar,
 
   sidebar: sidebar,
