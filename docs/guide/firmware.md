@@ -84,10 +84,8 @@ Then, you will need to put your phone in download mode. This may vary by model, 
 
 ### Downgrading
 
-Downgrading is also possible, given that the version you are trying to flash is on the same binary version as the current firmware on your device, there are multiple ways to find your binary version, some being:
+Downgrading is also possible, given that the version you are trying to flash is on the same binary version as the current firmware on your device, there are multiple ways to find your binary version, [check out this guide to see every possible way to find your binary version.](binary.md)
 
 ::: warning Warning
 Do not attempt to flash firmware on a lower binary version as the result is always unsuccessful, and it may softbrick your device.
 :::
-
-Keep in mind that since you won't be on your carrier's firmware, you will not have the carrier's unlock portal in the settings app, you'll have to find other means to unlock your device if it happens to be SIM locked to the carrier.
