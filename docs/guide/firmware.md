@@ -1,9 +1,8 @@
 ---
-index: 2
-icon: mobile
+author: Sadboi & Ushie
 title: Flashing Firmware
 description: Detailed guide on how to download and flash firmware on samsung devices
-author: Sadboi & Ushie
+icon: mobile
 category:
   - Guide
 ---
@@ -45,7 +44,8 @@ There are a few things you will need in order to flash firmware. In short, you w
 
 After downloading the corresponding programs, there will be a few simple concepts you will need to understand, starting with Frija.
 
-![Frija Preview](./../.vuepress/public/frijapreview.png)
+![Frija Preview](./../.vuepress/public/frija-dark.png#dark)
+![Frija Preview](./../.vuepress/public/frija-light.png#light)
 
 ::: info
 Frija downloads the latest available firmware for your device, so if you wish to downgrade, you would need to use SamFW; Please remember to only use the Direct Download option as the Google Drive option is not recommended by me for specific reasons.
