@@ -38,11 +38,10 @@ After installing Shizuku from Github, you will need to enable Developer Options 
 
 ### Setting up Shizuku:
 
-<!-- 1. Open Shizuku and go to "Start via Wireless Debugging > Pairing", you'll receive a notification from Shizuku.
-2. Go to Settings > Developer Options > Wireless Debugging, turn it on and press "Pair device with pairing code", a 6 digit WiFi pairing code will appear, memorize it and then in the notification Shizuku sent tap "Enter pairing code" and type the 6 digit code (make sure not to close the pairing popup from wireless debugging), you should be paired now, go back to shizuku and tap "Start via Wireless Debugging > Start" and now, you should start setting up Termux, you'll have to repeat this process when you restart your phone -->
-
 1. Open Shizuku and go to "Start via Wireless Debugging → Pairing", you'll receive a notification from Shizuku.
-2. Go to Settings → Developer Options → Wireless Debugging, turn it on and press "Pair device with pairing code", a 6 digit WiFi pairing code will appear, memorize it and then in the notification Shizuku sent tap "Enter pairing code" and type the 6 digit code (make sure not to close the pairing popup from wireless debugging), you should be paired now, go back to shizuku and tap "Start via Wireless Debugging → Start" and now, you should start setting up Termux, you'll have to repeat this process when you restart your phone
+2. Go to Settings → Developer Options → Wireless Debugging.
+3. Press "Pair device with pairing code", a 6 digit WiFi pairing code will appear, memorize it and then in the notification Shizuku sent press "Enter pairing code" and type the 6 digit code 
+You should be paired now, go back to shizuku and tap "Start via Wireless Debugging → Start" and now, you should start setting up Termux, you'll have to repeat this process when you restart your phone
 
 ### Setting up Termux:
 

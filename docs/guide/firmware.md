@@ -44,8 +44,8 @@ There are a few things you will need in order to flash firmware. In short, you w
 
 After downloading the corresponding programs, there will be a few simple concepts you will need to understand, starting with Frija.
 
-![Frija Preview](./../.vuepress/public/frija-dark.png#dark)
-![Frija Preview](./../.vuepress/public/frija-light.png#light)
+![Frija Preview](./../.vuepress/public/frija-dark.png)
+<!-- ![Frija Preview](./../.vuepress/public/frija-light.png#light) -->
 
 ::: info
 Frija downloads the latest available firmware for your device, so if you wish to downgrade, you would need to use SamFW; Please remember to only use the Direct Download option as the Google Drive option is not recommended by me for specific reasons.
@@ -61,8 +61,8 @@ CSCs elsewhere: A country may have its own CSC, alongside carrier CSCs as well. 
 
 Once you have entered your corresponding model number and CSC, press “Check Update” to retrieve the latest firmware version available and download it. Once the download is complete (do not close Frija until it is done decrypting), unzip the folder and you should see 5 files in the unzipped folder, as shown below:
 
-![Folder content preview](./../.vuepress/public/files-dark.png#dark)
-![Folder content preview](./../.vuepress/public/files-light.png#light)
+![Folder content preview](./../.vuepress/public/files-dark.png)
+<!-- ![Folder content preview](./../.vuepress/public/files-light.png#light) -->
 
 These files will then be used in the flashing process accordingly
 
