@@ -61,7 +61,8 @@ CSCs elsewhere: A country may have its own CSC, alongside carrier CSCs as well. 
 
 Once you have entered your corresponding model number and CSC, press “Check Update” to retrieve the latest firmware version available and download it. Once the download is complete (do not close Frija until it is done decrypting), unzip the folder and you should see 5 files in the unzipped folder, as shown below:
 
-![Folder content preview](./../.vuepress/public/filecontent.png)
+![Folder content preview](./../.vuepress/public/files-dark.png#dark)
+![Folder content preview](./../.vuepress/public/files-light.png#light)
 
 These files will then be used in the flashing process accordingly
 
