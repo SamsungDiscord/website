@@ -18,4 +18,14 @@ features:
     icon: shell
     details: Using ADB on device
     link: ladb.md
+
+  # - title: Changing CSC
+  #   icon: setting
+  #   details: Changing CSC on Samsung Devices
+  #   link: csc.md
+
+  # - title: Clearing Cache
+  #   icon: storage
+  #   details: Cleing cache on Samsung Devices
+  #   link: cache.md
 ---

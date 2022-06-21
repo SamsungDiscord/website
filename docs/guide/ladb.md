@@ -1,9 +1,8 @@
 ---
-index: 1
-icon: shell
+author: Ushie
 title: Local ADB
 description: Guide on using ADB commands on device
-author: Ushie
+icon: shell
 category:
   - Guide
 ---
@@ -32,14 +31,17 @@ You only need two things in order to use ADB Locally. In short, you will need:
 
 After installing Shizuku from Github, you will need to enable Developer Options in settings. I'll tell you how to below:
 
-* Go to "Settings", then tap "About device" or "About phone".  
-* Tap "Software Informaton", then tap "Build Number" 7 times.  
-* Enter your pattern, PIN or password to enable the Developer options menu.  
-* The "Developer options" menu will now appear in your Settings menu. 
+1. Go to the Settings app, then press "About phone".
+2. Press "Software Information", then press "Build number" 7 times.  
+3. Enter your pattern, PIN or password to enable the Developer options menu.  
+4. The "Developer options" menu will now appear in your Settings menu. 
 
 ### Setting up Shizuku:
 
-Open Shizuku and go to "Start via Wireless Debugging > Pairing", you'll receive a notification from Shizuku, go to Settings > Developer Options > Wireless Debugging, turn it on and press "Pair device with pairing code", a 6 digit WiFi pairing code will appear, memorize it and then in the notification Shizuku sent tap "Enter pairing code" and type the 6 digit code (make sure not to close the pairing popup from wireless debugging), you should be paired now, go back to shizuku and tap "Start via Wireless Debugging > Start" and now, you should start setting up Termux, you'll have to repeat this process when you restart your phone
+1. Open Shizuku and go to "Start via Wireless Debugging → Pairing", you'll receive a notification from Shizuku.
+2. Go to Settings → Developer Options → Wireless Debugging.
+3. Press "Pair device with pairing code", a 6 digit WiFi pairing code will appear, memorize it and then in the notification Shizuku sent press "Enter pairing code" and type the 6 digit code 
+You should be paired now, go back to shizuku and tap "Start via Wireless Debugging → Start" and now, you should start setting up Termux, you'll have to repeat this process when you restart your phone
 
 ### Setting up Termux:
 

@@ -21,11 +21,6 @@ features:
     details: Technical guides for Samsung devices
     link: /guide/
 
-  # - title: Suggestions
-  #   icon: comment
-  #   details: Make suggestions for the server
-  #   # link: https://suggestions.samsungdiscord.co
-
   - title: Appeals
     icon: blog
     details: Appeal your ban from the server
