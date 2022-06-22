@@ -36,7 +36,9 @@ export default hopeTheme({
 
   plugins: {
     mdEnhance: {
-      enableAll: true,
+      demo: true,
+      container: true,
+      imageMark: true,
       presentation: {
         plugins: [
           "highlight",
