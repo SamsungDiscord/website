@@ -1,8 +1,8 @@
 ---
-Author: Ushie
-Title: Finding your binary version
-Description: Guide on finding your binary version
-Category:
+author: Ushie
+title: Finding your binary version
+description: Guide on finding your binary version
+category:
   - Guide
 ---
 

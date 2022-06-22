@@ -1,9 +1,9 @@
 ---
 index: true
 title: Server Information
-description: List of information regarding the discord server
+description: Information regarding the discord server, such as rules, roles and affiliated servers
 heroText: Server Information
-tagline: A list of information regarding the discord server
+tagline: Information regarding the discord server
 icon: info
 ---
 

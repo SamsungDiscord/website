@@ -1,7 +1,8 @@
 ---
 index: true
-title: Server Phone TierList
-heroText: Server Phone TierList
+title: Server Phone List
+description: Table of the active server members phones because im a dumbass that can't remember shit
+heroText: Server Phone
 icon: info
 ---
 
