@@ -11,7 +11,7 @@ icon: info
 | **Ushie** | **S20+** | **N/A** |
 | **Joel** | **S22U** | **S7 Edge, S8, Pixel 4XL, S20+, N20** |
 | **Birb** | **iPhone 13PM** | **S20U, S20+** |
-| **Qwerty** | **Reno5** | **N/A** |
+| **Qwerty (furry)** | **Reno5** | **N/A** |
 | **VL50** | **Pixel 6** | **Moto G1, Moto G5, iPhone SE, A40, Pixel 3a, Pixel 4a, Moto G8, A52s** |
 | **Alacrity** | **iPhone 12 Pro** | **S9+** |
 | **Catalin** | **iPhone 11** | **S21** |
@@ -37,3 +37,6 @@ icon: info
 | **Kbell** | **iPhone 13P & S21+** | **N20** |
 | **Lars** | **N20U Exy** | **N/A** |
 | **Spice** | **S22U** | **iPhone 12Mini & S9** |
+| **Tristin** | **S22U, A53 5G** | **S21+ 5G** |
+| **Hyperdrive** | **Note 9, A53 5G** | **N/A** |
+| **John** | **S20 FE Exy** | **N/A** | 
