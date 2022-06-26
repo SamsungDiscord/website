@@ -8,7 +8,7 @@ icon: info
 
 | User | Phone | Previous Phones
 |:--:|:--:|:--:|
-| **Alacrity** | **iPhone 12 Pro** | **S7 Edge, S9+ ** |
+| **Alacrity** | **iPhone 12 Pro** | **S7 Edge, S9+** |
 | **Alphonsokurukuchu the 1st** | **M51** | **N/A** |
 | **Antonio** | **iPhone 12** | **N/A** |
 | **Arceus** | **S21 Plus (cringinus)** | **S10+** |
