@@ -36,11 +36,5 @@ icon: info
 | **Kbell** | **iPhone 13P & S21+** | **N20** |
 | **Lars** | **N20U Exy** | **N/A** |
 | **Spice** | **S22U** | **iPhone 12Mini & S9** |
-<<<<<<< HEAD
 
 <iframe width="740" height="315" src="https://www.youtube.com/embed/0o9mjhf0Rd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-=======
-| **Tristin** | **S22U, A53 5G** | **S21+ 5G** |
-| **Hyperdrive** | **Note 9, A53 5G** | **N/A** |
-| **John** | **S20 FE Exy** | **N/A** | 
->>>>>>> 051a7784e2af45450055bcbaed4cbc7393aa1048
